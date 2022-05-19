@@ -70,7 +70,7 @@ async function getPhotos(){
         console.log(error)
         //Catch Error Here
     }
-}
+} 
 
 function updateApiImagePage(){
     //increase image load size to 10 after init load
